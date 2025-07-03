@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "connectionMethod": "Hostname and Token",
+            "catalog": "transformers",
+            "previewLimit": 50,
+            "driver": "Databricks",
+            "name": "serverless",
+            "host": "dbc-b948f816-6261.cloud.databricks.com",
+            "path": "/sql/1.0/warehouses/bb8c715dccbf6153",
+            "schema": "default"
+        }
+    ]
+}
